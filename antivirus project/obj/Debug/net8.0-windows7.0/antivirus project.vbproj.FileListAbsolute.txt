@@ -1,0 +1,44 @@
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.exe
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.deps.json
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.runtimeconfig.json
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.pdb
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\WinForms.DataVisualization.Utilities.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\WinForms.DataVisualization.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlDashboard.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlPrivacy.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlSysPrerformance.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.stlScan2.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.Form1.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.frmPopUp.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.Resources.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.AssemblyInfo.vb
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antiviru.F5F37145.Up2Date
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\refint\antivirus project.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.pdb
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus project.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\ref\antivirus project.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlAccount.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlPremium.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.frmSettings.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\antivirus project.dll.config
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.ctlSubscription.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.frmSerialKey.resources
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.ApplicationInsights.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\PerformanceCounterHelper.Installer.exe
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\PerformanceCounterHelper.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\bin\Debug\net8.0-windows7.0\es\PerformanceCounterHelper.resources.dll
+C:\Users\LENOVO\source\repos\antivirus project\antivirus project\obj\Debug\net8.0-windows7.0\antivirus_project.srmScan.resources
